@@ -1,2 +1,6 @@
 # Password-Manager
-GUI(Graphical User Interface), Password Manager
+Display-type: Shell
+Python Version: tested on 3.8
+
+Python Modules Requriments:
+sqlite3
